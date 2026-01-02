@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Cloud-Compute%20Ready-blue.svg" />
+  <img src="https://img.shields.io/badge/Status-Active-success.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sincalwow/opensource-demo-app">
+    🔗 GitHub Repository
+  </a>
+  ·
+  <a href="https://dartnode.com">
+    ☁️ Cloud Compute Sponsor
+  </a>
+</p>
+
+
 
 # Cloud Ready Open Source App ☁️🚀
 
