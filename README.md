@@ -1,9 +1,3 @@
-<div align="center" style="
-background-color:#0d1117;
-color:#c9d1d9;
-padding:40px;
-border-radius:12px;
-">
 
 <p align="center">
   <a href="https://dartnode.com/">
@@ -164,7 +158,7 @@ developers and community-driven projects.
 =======
 🔗 Cloud Compute Sponsor  
 👉 https://dartnode.com
->>>>>>> ca691a1d019c9ad091e5a699eb8f31ce907fea51
+
 
 ## 📄 License
 
