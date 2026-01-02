@@ -53,7 +53,7 @@ This open source project is supported by free cloud compute programs.
 If you are a cloud provider supporting open source, feel free to reach out.
 
 🔗 Cloud Compute Sponsor  
-👉 https://YOUR-CLOUD-PROGRAM-LINK
+👉 https://dartnode.com
 
 ## 📄 License
 
