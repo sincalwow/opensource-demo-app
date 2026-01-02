@@ -1,3 +1,10 @@
+<div align="center" style="
+background-color:#0d1117;
+color:#c9d1d9;
+padding:40px;
+border-radius:12px;
+">
+
 <p align="center">
   <a href="https://dartnode.com/">
     <img src="./assets/dartnode-logo.png" height="80" alt="DartNode Logo" />
@@ -162,5 +169,3 @@ developers and community-driven projects.
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
-```
